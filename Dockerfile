@@ -1,4 +1,4 @@
-FROM golang:1.23 AS BUILDER
+FROM golang:1.24 AS BUILDER
 
 LABEL maintainer="Eugene Klimov <bloodjazman@gmail.com>"
 
